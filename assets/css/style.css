@@ -1,0 +1,10 @@
+body{
+    background: url(/assets/image/pexels-ketut-subiyanto-4623089.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    background: transparent !important;
+    position: sticky;
+
+}
