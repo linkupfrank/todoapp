@@ -8,3 +8,10 @@ body{
     position: sticky;
 
 }
+.card{
+   background: transparent;
+}
+.card ul a{
+    float: right;
+    margin: 0 .3rem;
+}
