@@ -9,8 +9,10 @@ body{
 
 }
 .card{
-   background: transparent;
+   background: rgba(0, 0, 0, 0.486);
+   color: white;
 }
+
 .card ul a{
     float: right;
     margin: 0 .3rem;
